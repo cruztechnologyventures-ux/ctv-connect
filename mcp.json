@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ctv-connection-test": {
+      "type": "streamable-http",
+      "url": "https://ctv-oauth-connection-test.cruztechnologyventures.workers.dev/mcp"
+    }
+  }
+}

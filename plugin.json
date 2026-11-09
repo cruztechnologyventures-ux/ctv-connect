@@ -1,0 +1,4 @@
+{
+  "name": "CTV Connection Test",
+  "description": "Owner-only OAuth connection test for the CTV Command Center. Adds the CTV connection-test MCP connector (GitHub sign-in as the CTV owner). Synthetic test only; no project, repository or data access."
+}
